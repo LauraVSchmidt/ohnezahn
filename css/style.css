@@ -78,9 +78,21 @@ h2{
 
 main {
   width: 800px;
-  margin: 0 auto;
+  margin: 50px auto;
 }
 
 main img{
   max-width: 100%;
+}
+
+footer{
+  background-color: lightblue;
+  margin: 0;
+  padding: 40px;
+}
+
+footer .content{
+  width: 800px;
+  margin: 0 auto;
+  text-align: center;
 }
